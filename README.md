@@ -9,6 +9,7 @@ Welcome to this presentation showcasing a Power BI portfolio, demonstrating a co
 ![example](/Databricks0.png)
 
 In our project multiple csv from various locations are loaded using PySpark and then stored in the SQL Data Warehouse
+
 ![example](/Databricks1.png)
 ![example](/Databricks2.png)
 
