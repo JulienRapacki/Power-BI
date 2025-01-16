@@ -22,4 +22,4 @@ Data is cleaned and prepared and ready to be loaded to Power Bi for dashoard con
 
 ![example](/images/Page1.png)
 
-Final overview ->[here](/Print_dashboad.pdf)
+Final overview ->[here](/Print_dashboard.pdf)
