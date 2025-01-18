@@ -12,10 +12,16 @@ In our project multiple csv from various locations are loaded using PySpark and 
 
 ![example](/images/Databricks1.png)
 ![example](/images/Databricks2.png)
-
-
-Data is cleaned and prepared and ready to be loaded to Power Bi for dashoard conception
 ![example](/images/Databricks3.png)
+
+Data is cleaned and prepared and ready to be loaded to Power Bi for dashboard conception
+
+**Data modeling** is crucial in PowerBi
+
+![example](/images/DataModel.png)
+
+
+
 
 
 
