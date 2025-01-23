@@ -4,9 +4,9 @@ Welcome to this presentation showcasing a Power BI portfolio, demonstrating a co
 **Data ingestion** is the process of gathering data from various sources. This includes collecting data from databases, APIs, files, and other platforms.
 
 ## Dataset
-10 millions transactions from §[Contoso Retail dataset](/github.com/sql-bi/Contoso-Data-Generator/releases)
+10 millions transactions from §[Contoso Retail dataset](github.com/sql-bi/Contoso-Data-Generator/releases)
 
-
+## Architecture overview
 ![example](/images/Process.png)
 
 **Databricks** is the plateform used to load and implement sofisticated data pipelines.
